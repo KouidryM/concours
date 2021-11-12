@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Slabo+27px&display=swap');
+
+
+
+.fish{
+    text-align: center;
+}
+li{
+    
+    text-align: center;
+    padding: 50px;
+    padding: 16px 9px 7px;
+    display: inline-block;
+    
+    
+    
+}
+ul{
+    margin-left: 598px;
+}
+.nav{
+    border: 2px solid #1c4344;
+    color:white;
+    background-color: #40b5b6;
+    width:100%;
+    margin-top: 31px;
+    padding-top: 3px;
+}
+.welcom{
+    font-size: 2em;
+    text-align: center;
+    font-family: 'Slabo 27px', serif;
+    color: rgb(30, 66, 63);
+    
+}
+.text{
+    
+    text-align: justify;
+    margin-left:366px ;
+    margin-right: 366px;
+}
+.cent{
+    text-align: center;
+    margin-bottom: 60px;
+}
+body{
+    background-color: #89c8c5;
+    margin: 0;
+}
+.menu{
+    width: 60%;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+    position: relative;
+    background-color: rgb(217, 221, 220);
+}
+.today{
+    text-align: center;
+    font-size: 3.5em;
+    margin: 0;
+    
+    margin-left: 5px;
+    margin-left: 210px;    
+    margin-right: 408px;
+    background-color:rgb(190, 250, 230); ;
+    color: rgb(30, 66, 63);
+
+}
+.recipe1{
+    width:100px;
+    height: 100px;
+    border-radius: 50%;
+    float: left;
+    margin-left: 10px;
+    
+}
+
+.text1{
+    
+    text-align: justify;
+    margin-left: 112px;
+    margin-right: 531px;
+    
+}
+.text2{
+    text-align: justify;
+    
+    margin-right: 531px;
+    display: inline-block;
+    margin-left: 15px;
+    
+}
+.recipe2{
+    width:100px;
+    height: 100px;
+    border-radius: 50%;
+    float: left;
+    margin-left: 514px;
+
+
+}
+.t{
+    background-color: rgb(190, 250, 230);
+    float: left;
+    margin-left: 10px;
+}
+.z{
+    position: absolute;
+    margin-right: 13px;
+    left: 8px;
+}
+
+.text3{
+    text-align: justify;
+    margin-left: 529px;
+    
+    
+    
+    
+
+}
+.text4{
+    text-align: justify;
+    margin-left: 531px;
+    display: inline-block;
+
+}
+.lemu{
+    margin-left: 590px;
+    color: rgb(30, 66, 63);
+
+}
+.new{
+    width: 132px;
+    margin-top: -64px;
+    background-color:#74a6a7;
+    padding: 20px;
+    border-radius: 7px;
+    font-size: 15px;
+    margin-right: 213px;
+    position: absolute;
+    right:0;
+    border: 4px solid #0db1b4;
+
+}
+.crust{
+    margin-left: 90px;
+    color: rgb(30, 66, 63);
+}
+.nex{
+    text-align: center;
+    color: white;
+    font-weight: 20px;
+}
+.ll{
+    color: white;
+}
+.footer{
+    clear: both;
+    text-align: center;
+    margin-top: 10px;
+}
+.footer-image{
+    margin-top: 10px;
+
+}
+.vignette{
+    float: right;
+    position: absolute;
+    right: 0;
+    top:-44px;
+    right:-18px;
+    width: 80px;
+}
+
+
+    
